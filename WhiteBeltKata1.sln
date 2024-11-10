@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBeltKata1", "WhiteBeltKata1\WhiteBeltKata1.csproj", "{C2A7A7D5-0E4D-4522-A011-18B1D1FE5C0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Mini-Kata-1", "2Mini-Kata-1\2Mini-Kata-1.csproj", "{19110EEF-4E9B-4728-A7C4-1EEBEEEE132D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C2A7A7D5-0E4D-4522-A011-18B1D1FE5C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2A7A7D5-0E4D-4522-A011-18B1D1FE5C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2A7A7D5-0E4D-4522-A011-18B1D1FE5C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19110EEF-4E9B-4728-A7C4-1EEBEEEE132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19110EEF-4E9B-4728-A7C4-1EEBEEEE132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19110EEF-4E9B-4728-A7C4-1EEBEEEE132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19110EEF-4E9B-4728-A7C4-1EEBEEEE132D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
